@@ -1,0 +1,21 @@
+@media only screen and (min-width: 600px) and (max-width: 799px){
+	.clock{
+		flex-direction: row;
+		align-items: flex-start;
+		justify-content: center;
+		border: none;
+	}
+
+	#hour, #minute, #second{
+		border: none;
+	}
+
+	.main{
+		margin-top: 300Px;
+		border: black solid 3px;
+		border-radius: 15px;
+	}
+}
+
+
+

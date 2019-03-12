@@ -1,0 +1,16 @@
+@media only screen and (max-width: 599px){
+
+	.clock{
+		border: none
+
+	}
+
+	.clockdiv {
+		border: dotted 2px white;
+		border-radius: 5px;
+
+	}
+
+
+}
+
